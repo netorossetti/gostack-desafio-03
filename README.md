@@ -1,5 +1,4 @@
-# gostack_desafio_02
-### Desafio: Conceitos do ReactJS
+# Desafio: Conceitos do ReactJS
 
 ## 🚀 Sobre o desafio
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
